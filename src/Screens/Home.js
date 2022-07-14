@@ -19,4 +19,4 @@ const styles = new StyleSheet.create({
     text:{
 
     }
-})
+} )
